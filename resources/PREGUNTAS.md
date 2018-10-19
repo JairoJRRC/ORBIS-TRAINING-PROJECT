@@ -57,7 +57,7 @@ happy :whale:
 
 COMANDO PARA EJECUTAR EL CONTENEDOR
 ```
-docker run -it --rm dtizonportilla/orbis-training-docker:0.2.0 bash
+docker run -it --rm jairo1997/orbis-training-docker:0.2.0 bash
 ```
 
 ---
@@ -88,7 +88,7 @@ docker run -it --rm dtizonportilla/orbis-training-docker:0.2.0 bash
 7. ¿Cómo verifico que el archivo creado se encuentra en la imagen?
 - Con los siguientes comandos:
 ```
-docker run -it --rm dtizonportilla/orbis-training-docker:0.2.0 bash
+docker run -it --rm jairo1997/orbis-training-docker:0.2.0 bash
 # cd app
 # ls
 ```

@@ -1,7 +1,7 @@
 version: '3'
 services:
   node:
-    image: dtizonportilla/orbis-training-docker:2.0.0
+    image: jairo1997/orbis-training-docker:2.0.0
     build: .
     ports:
       - 3030:1042
